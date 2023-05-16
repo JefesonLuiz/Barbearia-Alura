@@ -24,15 +24,15 @@ O Projeto Barbearia Alura é um projeto iniciante para aprendizado de HTML5 e CS
 <h2>Um Pouco do Projeto</h2>
 
 <ul>
-	<li>Página Inicial</li>
+	<li><h2>Página Inicial</h2></li>
 		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-1.png">
 	<h4>Sobre e Mapa</h4>
 		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-2.jpg">
 	<h4>Benefícios e Rodapé</h4>
 		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-3.png">
-	<li>Página de Produtos</li>
+	<li><h2>Página de Produtos</h2></li>
 		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/produtos.png">
-	<li>Página de Contato</li>
+	<li><h2>Página de Contato</h2></li>
 		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Formulario.png">
 </ul>
 
