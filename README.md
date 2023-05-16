@@ -13,7 +13,7 @@
 </ul>  
 <h1>Sobre</h1>
 
-<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-1.png">
+<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-gif.gif">
 
 O Projeto Barbearia Alura é um projeto iniciante para aprendizado de HTML5 e CSS3 através da Trilha Full Stack que o programa Desenvolve 2023 me proporcionou. É um site simples de Barbearia contendo um Menu Principal, Produtos e uma página de contato (Formulário).
 
@@ -25,13 +25,15 @@ O Projeto Barbearia Alura é um projeto iniciante para aprendizado de HTML5 e CS
 
 <ul>
 	<li>Página Inicial</li>
-	<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-1.png">
-	<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-2.jpg">
-	<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-3.png">
+		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-1.png">
+	<h4>Sobre e Mapa</h4>
+		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-2.jpg">
+	<h4>Benefícios e Rodapé</h4>
+		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Home-3.png">
 	<li>Página de Produtos</li>
-	<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/produtos.png">
+		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/produtos.png">
 	<li>Página de Contato</li>
-	<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Formulario.png">
+		<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/Formulario.png">
 </ul>
 
 <h3 align="center"> 
