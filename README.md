@@ -1,15 +1,20 @@
-<h1 align="center">Barbearia-Alura</h1>
-<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/_C__Users_Pichau_Documents_Alura_HTML5%2520e%2520CSS3_index.html.png">
+<p align="center">
+	<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/logos/logo-branco.png">
+</p>
+
+> <h2>Índice</h2>
 
 
-> Índice
 <ul>
 	<li><a href="Sobre">Sobre</a></li>
 	<li><a href="Tecnologias">Tecnologias</a></li>
 	<li><a href="Um-Pouco-do-Projeto">Um Pouco do Projeto</a></li>
 	<li><a href="Agradecimentos">Agradecimento</a></li>
 </ul>  
-<h2>Sobre</h2>
+<h1>Sobre</h1>
+
+<img src="https://github.com/jefeson64/Barbearia-Alura/blob/main/img/apresentacao/_C__Users_Pichau_Documents_Alura_HTML5%2520e%2520CSS3_index.html.png">
+
 O Projeto Barbearia Alura é um projeto iniciante para aprendizado de HTML5 e CSS3 através da Trilha Full Stack que o programa Desenvolve 2023 me proporcionou. É um site simples de Barbearia contendo um Menu Principal, Produtos e uma página de contato (Formulário).
 
 <h2>Tecnologias</h2>
